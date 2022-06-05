@@ -77,6 +77,8 @@ header p {
     text-align: center;
     padding: 20px;
     margin: 20px;
+    font-size: 20px;
+    font-family: var(--font-padrao);
 }
 
 main {
@@ -135,6 +137,7 @@ main h1 {
     font-family: var(--android);
     font-weight: normal;
     text-align: left;
+    text-shadow: 2px 0px 2px rgba(0, 0, 0, 0.469);
 }
 
 main h2 {
@@ -143,6 +146,7 @@ main h2 {
     font-family: var(--android);
     font-weight: normal;
     padding: 5px;
+    text-shadow: 2px 0px 2px rgba(0, 0, 0, 0.469);
     
 }
 
@@ -187,6 +191,7 @@ aside > h3 {
     margin: -5px;
     padding: 10px;
     font-weight: normal;
+    text-shadow: 2px 0px 2px #00000078;
 }
 
 aside > p {
