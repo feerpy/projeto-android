@@ -61,6 +61,7 @@ header a:hover {
     background-color: var(--cor2);
     color: var(--cor5);
     border-radius: 3px;
+    transition-duration: 0.5ms;
 }
 
 header h1 {
